@@ -21,7 +21,7 @@
 <p align="left">
 	<a href="https://twitter.com/mishalleo1803" target="blank">
         <img align="center" 
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-															generator/master/src/images/icons/Social/twitter.svg" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mastersrc/images/icons/Social/twitter.svg" 
              alt="mishalleo1803" 
              height="30" 
              width="40" 
