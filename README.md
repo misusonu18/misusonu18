@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **PHP, Laravel and VueJS**
 - :computer: Pursuing Degree Computer Engineering at Marwadi University
 - :office: Working as part time in [Freshbits Web Solutions](https://www.freshbits.in/)
-- 🌱 Currently **Exploring VueJS and Laravel**
+- 🌱 Currently **Exploring VueJS, Laravel and Python**
 - :pencil: An innovative web developer with 2 years of experience in Laravel, Vue js, LEMP. Some technologies I enjoy working with VueJS and LARAVEL. An open-minded and open to learning new technologies, self-motivated, and proficient with computers.
 - 📫 How to reach me **misusonu18@gmail.com**
 
