@@ -13,12 +13,14 @@
 
 # Profile Summary 
 
-- 🔭 I’m currently working on **PHP, Laravel and VueJS**
-- :computer: Pursuing Degree Computer Engineering at Marwadi University
-- :office: Working as part time in [Freshbits Web Solutions](https://www.freshbits.in/)
-- 🌱 Currently **Exploring VueJS, Laravel and Python**
-- :pencil: An innovative web developer with 2 years of experience in Laravel, Vue js, LEMP. Some technologies I enjoy working with VueJS and LARAVEL. An open-minded and open to learning new technologies, self-motivated, and proficient with computers.
-- 📫 How to reach me **misusonu18@gmail.com**
+- Experienced web developer proficient in Laravel, VueJS, and LEMP (LINUX, NGINX, MYSQL, PHP) with 2 years of industry experience.
+- Currently focused on developing web applications using PHP, Laravel, and VueJS.
+- Pursuing a degree in Computer Engineering from Marwadi University to further enhance technical skills and knowledge.
+- Working full-time at Freshbits Web Solutions, contributing to the development of web applications.
+- Passionate about exploring new technologies and currently exploring VueJS, Laravel, Livewire, and Python.
+- A self-motivated individual with an open mind to learn and adapt to new technologies and methodologies.
+- Skilled in using various computer software tools to develop web applications with optimal efficiency and effectiveness.
+- Available for contact at misusonu18@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
