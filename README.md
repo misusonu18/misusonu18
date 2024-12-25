@@ -15,11 +15,12 @@
 
 - Experienced web developer proficient in Laravel, VueJS, and LEMP (LINUX, NGINX, MYSQL, PHP) with 2 years of industry experience.
 - Currently focused on developing web applications using PHP, Laravel, and VueJS.
-- Pursuing a degree in Computer Engineering from Marwadi University to further enhance technical skills and knowledge.
-- Working full-time at Freshbits Web Solutions, contributing to the development of web applications.
+- Completed degree in Computer Engineering from Marwadi University to further enhance technical skills and knowledge.
+- Working full-time at artisan Commerce Cloud, contributing to the development of web applications.
 - Passionate about exploring new technologies and currently exploring VueJS, Laravel, Livewire, and Python.
 - A self-motivated individual with an open mind to learn and adapt to new technologies and methodologies.
 - Skilled in using various computer software tools to develop web applications with optimal efficiency and effectiveness.
+- Currently Learning Data science.
 - Available for contact at misusonu18@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
