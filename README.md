@@ -13,7 +13,7 @@
 
 # Profile Summary 
 
-- Experienced web developer proficient in Laravel, VueJS, and LEMP (LINUX, NGINX, MYSQL, PHP) with 2 years of industry experience.
+- Experienced web developer proficient in Laravel, VueJS, and LEMP (LINUX, NGINX, MYSQL, PHP) with 4 years of industry experience.
 - Currently focused on developing web applications using PHP, Laravel, and VueJS.
 - Completed degree in Computer Engineering from Marwadi University to further enhance technical skills and knowledge.
 - Working full-time at artisan Commerce Cloud, contributing to the development of web applications.
