@@ -1,106 +1,97 @@
-<div>
-    <img src="programming.png" border="1" align="center" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Mishal%20Parmar&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Laravel%20%C2%B7%20Vue%20%C2%B7%20Inertia&descSize=20&descAlignY=60&animation=fadeIn" alt="Mishal Parmar — Senior Software Engineer" width="100%" />
+
+<a href="https://github.com/misusonu18"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=6+years+building+production+web+applications;Laravel+%C2%B7+PHP+%C2%B7+Vue.js+%C2%B7+InertiaJS;Clean+architecture.+Fast+delivery.+Maintainable+code.;Currently+learning+AI+%26+Machine+Learning" alt="Typing intro" /></a>
+
+<br/>
+
+<a href="mailto:misusonu18@gmail.com"><img src="https://img.shields.io/badge/Email-misusonu18%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/mishalleo1803"><img src="https://img.shields.io/badge/X-@mishalleo1803-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+<a href="https://github.com/misusonu18"><img src="https://img.shields.io/badge/GitHub-misusonu18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=misusonu18&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Mishal Parmar</h1>
+---
 
-<h3 align="center">A Frontend and Backend developer from India</h3>
+## 👨‍💻 About
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=misusonu18&label=Profile%20views&color=0e75b6&style=flat" alt="misusonu18" /> </p>
+I'm a **Senior Software Engineer with 6 years of experience** designing and shipping full-stack web applications. My day-to-day is the **Laravel + Vue (Inertia) ecosystem**, backed by a LEMP stack, with a strong focus on clean architecture, performance, and code that teams can maintain long after it ships.
 
+- 🏢 Working full-time at **Artisan Commerce Cloud**, building and scaling commerce-oriented web applications
+- 🎓 B.E. in **Computer Engineering** — Marwadi University
+- 🧱 Strengths: API design, database modelling, query optimisation, server-rendered SPAs, reusable UI architecture
+- 🤖 Currently deepening my knowledge of **AI, Machine Learning & Data Science**
+- 🤝 Open to meaningful collaborations, technical discussions, and engineering opportunities
 
+---
 
-# Profile Summary 
+## 🛠️ Tech Stack
 
-- Experienced web developer proficient in Laravel, VueJS, and LEMP (LINUX, NGINX, MYSQL, PHP) with 4 years of industry experience.
-- Currently focused on developing web applications using PHP, Laravel, and VueJS.
-- Completed degree in Computer Engineering from Marwadi University to further enhance technical skills and knowledge.
-- Working full-time at artisan Commerce Cloud, contributing to the development of web applications.
-- Passionate about exploring new technologies and currently exploring VueJS, Laravel, Livewire, and Python.
-- A self-motivated individual with an open mind to learn and adapt to new technologies and methodologies.
-- Skilled in using various computer software tools to develop web applications with optimal efficiency and effectiveness.
-- Currently Learning Data science.
-- Available for contact at misusonu18@gmail.com.
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://twitter.com/mishalleo1803" target="blank">
-        <img align="center" 
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-             alt="mishalleo1803" 
-             height="30" 
-             width="40" 
-        />
-    </a>
-</p>
+**Backend**
 
-<h3 align="left"> Languages and Tools: </h3>
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 					alt="bootstrap" 
-             width="40"
-             height="40"
-        /> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-             alt="html5" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 						alt="javascript" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 						alt="laravel" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-             alt="linux" 
-             width="40" 
-             height="40"
-         /> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-             alt="mysql" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
-             alt="nginx" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-             alt="php" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
-             alt="vuejs" 
-             width="40" 
-             height="40"
-        /> 
-    </a> 
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nginx,linux&perline=10" alt="Backend stack" />
 
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind,alpinejs,bootstrap&perline=10" alt="Frontend stack" />
 
+**Tooling & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,npm,postman&perline=10" alt="Tooling" />
+
+**Learning**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&perline=10" alt="Learning" />
+
+</div>
+
+| Area | What I work with |
+| :-- | :-- |
+| **Backend** | PHP, Laravel, Livewire, REST APIs, queues & jobs, caching, testing (Pest/PHPUnit) |
+| **Frontend** | Vue.js, InertiaJS, Alpine.js, Tailwind CSS, Vite |
+| **Data & Infra** | MySQL, Nginx, Linux (LEMP), Git-based workflows, CI/CD |
+| **Exploring** | Python, Data Science, Machine Learning fundamentals |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/misusonu18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=misusonu18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/misusonu18">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misusonu18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=8" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=misusonu18&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🎯 Currently
+
+| | |
+| :-- | :-- |
+| 🔭 **Building** | Production Laravel + Inertia/Vue applications |
+| 🌱 **Learning** | AI / Machine Learning, Python, Data Science |
+| 💬 **Ask me about** | Laravel architecture, Vue/Inertia patterns, Tailwind UI systems, database performance |
+| ⚡ **Fun fact** | I treat every code review as a chance to simplify something |
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about backend architecture, frontend craft, or how to get started with AI as an engineer.
+
+📫 **[misusonu18@gmail.com](mailto:misusonu18@gmail.com)** &nbsp;·&nbsp; 🐦 **[@mishalleo1803](https://twitter.com/mishalleo1803)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06b6d4,50:1d4ed8,100:0f172a&section=footer" alt="" width="100%" />
