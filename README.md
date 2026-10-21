@@ -33,19 +33,23 @@ I'm a **Senior Software Engineer with 6 years of experience** designing and ship
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nginx,linux&perline=10" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel&perline=10" alt="Backend stack" />
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind,alpinejs,bootstrap&perline=10" alt="Frontend stack" />
 
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=mysql,nginx,linux,docker&perline=10" alt="Database and infrastructure" />
+
 **Tooling & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,npm,postman&perline=10" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,npm,postman&perline=10" alt="Tooling" />
 
 **Learning**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas&perline=10" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=10" alt="Learning" />
 
 </div>
 
