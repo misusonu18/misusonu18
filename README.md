@@ -7,6 +7,7 @@
 <br/>
 
 <a href="mailto:misusonu18@gmail.com"><img src="https://img.shields.io/badge/Email-misusonu18%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mishalvparmar"><img src="https://img.shields.io/badge/LinkedIn-Mishal%20Parmar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/mishalleo1803"><img src="https://img.shields.io/badge/X-@mishalleo1803-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 <a href="https://github.com/misusonu18"><img src="https://img.shields.io/badge/GitHub-misusonu18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=misusonu18&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -92,10 +93,28 @@ I'm a **Senior Software Engineer with 6 years of experience** designing and ship
 
 ---
 
+## 💼 Work With Me
+
+Open to select freelance and contract engagements — web applications built to last, delivered with clear communication.
+
+| Service | What you get |
+| :-- | :-- |
+| **Custom Laravel applications** | Well-structured, tested back ends: auth, roles & permissions, billing, queues, admin panels |
+| **Vue / Inertia frontends** | Fast, accessible SPAs with Tailwind CSS and reusable component architecture |
+| **API design & integrations** | REST APIs, third-party integrations, webhooks, and documentation |
+| **Performance & database tuning** | Query optimisation, caching strategy, and fixing slow pages in existing apps |
+| **Legacy modernisation** | Upgrading old PHP/Laravel codebases, refactoring, and adding test coverage |
+
+**How I work:** scoped milestones · regular updates · clean Git history · maintainable handover.
+
+👉 To discuss a project, email **[misusonu18@gmail.com](mailto:misusonu18@gmail.com)** or message me on **[LinkedIn](https://www.linkedin.com/in/mishalvparmar)**.
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always happy to talk about backend architecture, frontend craft, or how to get started with AI as an engineer.
 
-📫 **[misusonu18@gmail.com](mailto:misusonu18@gmail.com)** &nbsp;·&nbsp; 🐦 **[@mishalleo1803](https://twitter.com/mishalleo1803)**
+📫 **[misusonu18@gmail.com](mailto:misusonu18@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/mishalvparmar)** &nbsp;·&nbsp; 🐦 **[@mishalleo1803](https://twitter.com/mishalleo1803)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06b6d4,50:1d4ed8,100:0f172a&section=footer" alt="" width="100%" />
